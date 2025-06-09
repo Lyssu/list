@@ -1,10 +1,16 @@
 {
   "usuarios": [
     {
-      "usuario": "feneco",
-      "senha": "feneco",
       "usuario": "jardim",
-      "senha": "jardim",
+      "senha": "jardim"
+    },
+    {
+      "usuario": "feneco",
+      "senha": "feneco"
+    },
+    {
+      "usuario": "siid",
+      "senha": "siid"
     }
   ]
 }
