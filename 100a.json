@@ -1,14 +1,8 @@
 {
   "usuarios": [
     {
-      "usuario": "teste",
-      "senha": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd61aefb8c1f22a",
-      "expira": "2025-12-01"
-    },
-    {
-      "usuario": "vip",
-      "senha": "bcb2b76aa5988cd420ed9e65e43819792741469b1488eb4058a8f923e0e1e7c4",
-      "expira": "2026-01-01"
+      "usuario": "feneco",
+      "senha": "feneco"
     }
   ]
 }
